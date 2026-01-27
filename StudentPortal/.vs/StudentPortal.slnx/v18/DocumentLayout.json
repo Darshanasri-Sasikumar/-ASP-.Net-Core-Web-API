@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\models\\createstudentmarksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\createstudentmarksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\models\\enitites\\studentmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\enitites\\studentmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\models\\createcoursedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\createcoursedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Migrations\\20260122162049_StudentCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentPortal\\Migrations\\20260122162049_StudentCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\migrations\\20260120123631_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\migrations\\20260120123631_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\models\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\migrations\\20260121120239_addisdeletedtostudentmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\migrations\\20260121120239_addisdeletedtostudentmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\studentportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\studentportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\models\\updatestudentmarksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\updatestudentmarksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\models\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|c:\\users\\darshan\\source\\repos\\studentportal\\studentportal\\studentportal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{567AFBFF-599F-B5D5-DE40-5AEF45469E72}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\studentportal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Program.cs",
+              "RelativeToolTip": "StudentPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:50:30.217Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentMarks.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\Enitites\\StudentMarks.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\Enitites\\StudentMarks.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\Enitites\\StudentMarks.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\Enitites\\StudentMarks.cs",
+              "ViewState": "AgIAAAAAAABAMzMzM5MwwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:49:14.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateStudentMarksdto.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\CreateStudentMarksdto.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\CreateStudentMarksdto.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\CreateStudentMarksdto.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\CreateStudentMarksdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:33:55.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCourseDetailsdto.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\CreateCourseDetailsdto.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\CreateCourseDetailsdto.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\CreateCourseDetailsdto.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\CreateCourseDetailsdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T06:08:28.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentPortal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvwoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:32:27.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentPortal\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwDkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:25:42.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "StudentPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:35:14.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260122162049_StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Migrations\\20260122162049_StudentCourse.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Migrations\\20260122162049_StudentCourse.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Migrations\\20260122162049_StudentCourse.cs",
+              "RelativeToolTip": "StudentPortal\\Migrations\\20260122162049_StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:20:49.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260120123631_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Migrations\\20260120123631_InitialMigration.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Migrations\\20260120123631_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Migrations\\20260120123631_InitialMigration.cs",
+              "RelativeToolTip": "StudentPortal\\Migrations\\20260120123631_InitialMigration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:36:32.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateStudentdto.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\CreateStudentdto.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\CreateStudentdto.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\CreateStudentdto.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\CreateStudentdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:28:39.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260121120239_AddIsDeletedToStudentMarks.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Migrations\\20260121120239_AddIsDeletedToStudentMarks.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Migrations\\20260121120239_AddIsDeletedToStudentMarks.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Migrations\\20260121120239_AddIsDeletedToStudentMarks.cs",
+              "RelativeToolTip": "StudentPortal\\Migrations\\20260121120239_AddIsDeletedToStudentMarks.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T12:02:39.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentPortal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentPortal\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-19T09:41:49.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateStudentMarksdto.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\UpdateStudentMarksdto.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\UpdateStudentMarksdto.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\UpdateStudentMarksdto.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\UpdateStudentMarksdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:26:41.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentPortal.csproj",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+              "RelativeDocumentMoniker": "StudentPortal\\StudentPortal.csproj",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+              "RelativeToolTip": "StudentPortal\\StudentPortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T10:25:53.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Updatestudentdto.cs",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\Updatestudentdto.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\Updatestudentdto.cs",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\Models\\Updatestudentdto.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\Updatestudentdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T14:02:41.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentPortal.http",
+              "DocumentMoniker": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\StudentPortal.http",
+              "RelativeDocumentMoniker": "StudentPortal\\StudentPortal.http",
+              "ToolTip": "C:\\Users\\DARSHAN\\source\\repos\\StudentPortal\\StudentPortal\\StudentPortal.http",
+              "RelativeToolTip": "StudentPortal\\StudentPortal.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-19T10:05:27.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
