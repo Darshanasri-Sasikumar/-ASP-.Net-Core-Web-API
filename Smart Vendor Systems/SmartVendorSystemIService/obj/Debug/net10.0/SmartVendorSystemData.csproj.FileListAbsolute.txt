@@ -1,0 +1,14 @@
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\obj\Debug\net10.0\SmartVendorSystemData.csproj.AssemblyReference.cache
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\obj\Debug\net10.0\SmartVendorSystemData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\obj\Debug\net10.0\SmartVendorSystemData.AssemblyInfoInputs.cache
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\obj\Debug\net10.0\SmartVendorSystemData.AssemblyInfo.cs
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\obj\Debug\net10.0\SmartVendorSystemData.csproj.CoreCompileInputs.cache
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\bin\Debug\net10.0\SmartVendorSystemData.deps.json
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\bin\Debug\net10.0\SmartVendorSystemData.runtimeconfig.json
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\bin\Debug\net10.0\SmartVendorSystemData.dll
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\bin\Debug\net10.0\SmartVendorSystemData.pdb
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\obj\Debug\net10.0\SmartVendorSystemData.dll
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\obj\Debug\net10.0\refint\SmartVendorSystemData.dll
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\obj\Debug\net10.0\SmartVendorSystemData.pdb
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\obj\Debug\net10.0\SmartVendorSystemData.genruntimeconfig.cache
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemIService\obj\Debug\net10.0\ref\SmartVendorSystemData.dll

@@ -1,0 +1,17 @@
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\obj\Debug\net10.0\SmartVendorSystemService.csproj.AssemblyReference.cache
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\obj\Debug\net10.0\SmartVendorSystemService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\obj\Debug\net10.0\SmartVendorSystemService.AssemblyInfoInputs.cache
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\obj\Debug\net10.0\SmartVendorSystemService.AssemblyInfo.cs
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\obj\Debug\net10.0\SmartVendorSystemService.csproj.CoreCompileInputs.cache
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\bin\Debug\net10.0\SmartVendorSystemService.deps.json
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\bin\Debug\net10.0\SmartVendorSystemService.runtimeconfig.json
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\bin\Debug\net10.0\SmartVendorSystemService.dll
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\bin\Debug\net10.0\SmartVendorSystemService.pdb
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\bin\Debug\net10.0\SmartVendorSystemData.dll
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\bin\Debug\net10.0\SmartVendorSystemData.pdb
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\obj\Debug\net10.0\SmartVen.BAEAB583.Up2Date
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\obj\Debug\net10.0\SmartVendorSystemService.dll
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\obj\Debug\net10.0\refint\SmartVendorSystemService.dll
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\obj\Debug\net10.0\SmartVendorSystemService.pdb
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\obj\Debug\net10.0\SmartVendorSystemService.genruntimeconfig.cache
+C:\Users\DARSHAN\Desktop\.Net\Smart Vendor Systems\SmartVendorSystemService\obj\Debug\net10.0\ref\SmartVendorSystemService.dll

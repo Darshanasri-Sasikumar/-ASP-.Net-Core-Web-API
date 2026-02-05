@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Smart Vendor Systems/Smart Vendor Systems.csproj" />
+  <Project Path="SmartVendorSystemIService/SmartVendorSystemData.csproj" Id="93e9f3de-a373-428b-82d9-ff7941ac6853" />
+  <Project Path="SmartVendorSystemService/SmartVendorSystemService.csproj" Id="ad444c24-21df-4796-9ce8-35fc2fdafb61" />
+</Solution>
